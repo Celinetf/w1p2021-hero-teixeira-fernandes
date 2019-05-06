@@ -4,8 +4,7 @@ URL du site : http://votre-url-ici.com
 
 ### Groupe
 
-- Prénom & Nom
-- Prénom & Nom
+- Céline Teixeira Fernandes 
 
 ## Prologue
 
